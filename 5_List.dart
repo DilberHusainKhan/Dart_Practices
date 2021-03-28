@@ -21,6 +21,5 @@ void main() {
     4.5
   ];
   print(combination);
-
   print(a.runtimeType);
 }
