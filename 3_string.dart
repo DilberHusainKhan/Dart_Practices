@@ -1,5 +1,4 @@
 // String is a datatype that contain text.
-import 'dart:io';
 
 void main() {
   String myName = "Dilber Husain Khan";

@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   bool isTrue = true;
   /* bool isFalse = 2;
