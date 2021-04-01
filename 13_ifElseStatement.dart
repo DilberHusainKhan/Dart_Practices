@@ -14,4 +14,13 @@ void main() {
   } else {
     print('Password is rejected');
   }
+// check  weather you are 18+ or not
+  String name = "Humayun Anwar Khan";
+  num age = 10;
+  if (age >= 18) {
+    print("You have right to vote Mr. ${name}");
+  } else {
+    print(
+        "You have no right to vote Master $name , you need ${18 - age} more year to vote");
+  }
 }
