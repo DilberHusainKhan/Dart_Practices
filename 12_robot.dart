@@ -1,7 +1,4 @@
 // make a Robot that buy milk from shop
-
-import 'dart:io';
-
 void main() {
   // int bottle = 0, money = 0;
   // print("Enter number of Milk bottle you want to buy");
