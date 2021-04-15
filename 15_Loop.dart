@@ -17,4 +17,11 @@ void main() {
     print("Do While $a");
     a++;
   } while (a < 100);
+
+  int z = 0;
+  while (true) {
+    print('Hello dart');
+    // break is use to break the loop;
+    break;
+  }
 }
