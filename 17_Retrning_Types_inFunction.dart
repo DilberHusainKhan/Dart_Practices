@@ -6,7 +6,7 @@ void main() {
 }
 
 // String function return string
-String getName() => "Dilber Husain Khan";
+String getName() => "Humayun Anwar Khan";
 
 // Bool function Return Boolean value
 
