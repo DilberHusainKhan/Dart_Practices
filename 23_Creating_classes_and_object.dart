@@ -11,8 +11,7 @@ void main() {
   myCar2.color = 'White';
 
   print(myCar2.carName); //override the value
-  print(myCar2.color);
-  print(myCar2.varient);
+  print("Car color is ${myCar2.color} and varient is ${myCar2.varient}");
 }
 
 // Class
