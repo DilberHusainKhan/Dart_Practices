@@ -12,9 +12,11 @@ class Car {
   String? color;
   int? varient;
 // Constructor
-  Car(String carName, String color, int varient) {
-    this.carName = carName;
-    this.color = color;
-    this.varient = varient;
-  }
+  Car(this.carName, this.color, this.varient);
+//  BOTH ARE SAME
+  // Car(String carName, String color, int varient) {
+  //   this.carName = carName;
+  //   this.color = color;
+  //   this.varient = varient;
+  // }
 }
