@@ -1,5 +1,3 @@
-import '23_Creating_classes_and_object.dart';
-
 void main() {
   print("Default conatyructor");
   var myCar = new Car("Default", "cyan ", 0);
@@ -24,7 +22,7 @@ class Car {
   int? varient;
 
 // Default construvtor
-  Car(this.carName, this.color, this.varient);
+  Car(this.carName, this.color, this.varient); //Syntactic constructor
 
 // Named Constructor
   Car.Varient1() {
