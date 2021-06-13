@@ -9,7 +9,7 @@ void main() {
   print(myCar.isRunning());
 
   // new objject
-  print("NEW OBject--------------");
+  print("----------------NEW OBject--------------");
   var myCar2 = new Car();
   myCar2.stop();
   myCar2.start();
